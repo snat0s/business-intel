@@ -1,0 +1,9 @@
+---
+id: brand-x-artist-collab-plan-auto.29
+type: unsorted
+topic: "unsorted"
+source: "/Users/santtu/business-intel/raw/brand-x-artist-collab-plan.md"
+created_at: 2025-11-03
+confidence: 0.5
+---
+– Outlander\]([https://outlandermag.com/blogs/talk-of-the-land/free-game-from-a-lawyer-for-creatives\#:\~:text=payment%20of%20a%20royalty%20to,almost%20always%20in%20the%20details](https://outlandermag.com/blogs/talk-of-the-land/free-game-from-a-lawyer-for-creatives#:~:text=payment%20of%20a%20royalty%20to,almost%20always%20in%20the%20details))), though it can range higher or lower. For instance, Michael Jordan (a different context but illustrative) earns about **5% on Nike’s Jordan Brand sales**, yielding an estimated **$300 million** in annual royalties recently ([Forbes \- Kanye’s Second Coming: Inside The Billion-Dollar Yeezy Empire : r/hiphopheads](https://www.reddit.com/r/hiphopheads/comments/cb12eo/forbes_kanyes_second_coming_inside_the/#:~:text=%E2%80%A2)) ([Michael Jordan Nike deal is best in history with NBA legend’s $500m shoe brand detail revealed](https://www.foxsports.com.au/basketball/ludicrous-500m-detail-as-michael-jordans-nike-deal-confirmed-best-in-history/news-story/47f7118faca9ccd21d127b479ea4f7c7#:~:text=Details%20of%20the%20agreement%20surrounding,US%24330%2C000%20million%29%20this%20year)). In exceptional cases, the royalty rate is much higher: Kanye West secured roughly **15% royalty on wholesale** for his Adidas Yeezy sneaker deal ([Kanye's Yeezy is a Multi-Billion Dollar Business and Still Growing](https://www.thefashionlaw.com/kanye-wests-yeezy-venture-is-worth-1-billion-and-growing/#:~:text=appears%20to%20be%20an%20unprecedented,from%20his%20partnership%20with%20Nike)). Some deals use a **tiered structure** (e.g. royalty kicks in after a sales threshold) to ensure the artist benefits if the product performs well (\[

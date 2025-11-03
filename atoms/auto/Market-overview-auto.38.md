@@ -1,0 +1,9 @@
+---
+id: Market-overview-auto.38
+type: unsorted
+topic: "unsorted"
+source: "/Users/santtu/business-intel/raw/Market-overview.md"
+created_at: 2025-11-03
+confidence: 0.5
+---
+* **Global Reach and Localization:** Finally, in today’s market, having a **global reach** is a success factor – the ability to work across time zones and cultural markets. Many top agencies either have international offices (HF, Jacky Winter, Making Pictures, etc. all expanded beyond their home base) or strong partner networks. This allows them to sign talent from around the world (enriching their roster diversity) and to service clients wherever they are. However, with global reach comes the need for *local insight* – successful agencies often have agents who understand local markets (e.g., an agent in Asia for APAC clients). Competitors like B\&A (with New York/London), or Dutch Uncle (London/New York/Tokyo from the UK list ([20 best illustration agents in the UK, and the awesome illustrators they represent | Creative Boom](https://www.creativeboom.com/resources/20-best-illustration-agents-in-the-uk/#:~:text=7))), show that presence in key hubs is almost a prerequisite at the top end. Agent Pekka itself spans Helsinki, Amsterdam, and now Los Angeles ([Agent pekka Reviews 2025: Profile Details | GoodFirms](https://www.goodfirms.co/company/agent-pekka#:~:text=Agent%20Pekka%20is%20an%20illustration,diverse%20as%20they%20are%20distinctive)) ([Agent pekka Reviews 2025: Profile Details | GoodFirms](https://www.goodfirms.co/company/agent-pekka#:~:text=,United%20States)). Thus, being able to claim a **truly global operation** has become a key factor: it instills confidence in international clients that the agency can handle their needs and also suggests a certain scale and ambition that attract enterprise-level projects.

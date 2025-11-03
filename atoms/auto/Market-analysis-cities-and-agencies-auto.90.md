@@ -1,0 +1,9 @@
+---
+id: Market-analysis-cities-and-agencies-auto.90
+type: unsorted
+topic: "unsorted"
+source: "/Users/santtu/business-intel/raw/Market-analysis-cities-and-agencies.md"
+created_at: 2025-11-03
+confidence: 0.5
+---
+* **Client Base & Projects:** Agent Pekka’s client ([Agent pekka Reviews 2025: Profile Details | GoodFirms](https://www.goodfirms.co/company/agent-pekka#:~:text=Agent%20Pekka%20is%20an%20illustration,diverse%20as%20they%20are%20distinctive)) from their artists’ portfolios) includes design-savvy brands and cultural institutions. They have done campaigns for tech companies, fashion brands, and editorial illustrations for trendsetting publications. Larger agencies handle a higher volume of bread-and-butter commercial jobs (e.g., Bright does hundreds of children’s book deals a year; IllustrationX covers everything from small editorial spots to Fortune 500 ad commissions). Agent Pekka likely handles fewer projects but often high-profil ([Finnish illustration brilliance goes Dutch as Agent Pekka sets up Amsterdam office](https://www.itsnicethat.com/articles/agent-pekka-amsterdam-show#:~:text=They%20have%20marked%20the%20move,a%20whole%20gamut%20of%20styles)) ivity ones. Their **competitive advantage** is the **boutique service** – with a small core team (they list 2–9 employees), they can offer **personalized attention** to both clients and artists. An art director working with Agent Pekka might directly speak with the founders/agents who deeply understand the style and fit ([Finnish illustration brilliance goes Dutch as Agent Pekka sets up Amsterdam office](https://www.itsnicethat.com/articles/agent-pekka-amsterdam-show#:~:text=They%20have%20marked%20the%20move,a%20whole%20gamut%20of%20styles)) r artists. This level of service can be a selling point versus a huge agency where a client might feel like “one of many.”

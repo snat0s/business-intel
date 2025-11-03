@@ -1,0 +1,9 @@
+---
+id: Market-analysis-cities-and-agencies-auto.78
+type: unsorted
+topic: "unsorted"
+source: "/Users/santtu/business-intel/raw/Market-analysis-cities-and-agencies.md"
+created_at: 2025-11-03
+confidence: 0.5
+---
+**16\. Sydney (Australia):** *Advertising and Media in Oceania.* Sydney is Australia’s largest city and the center of its advertising industry. Many multi-national campa ([Yeon Illustration Agency](https://yeonagency.com/#:~:text=Yeon%20Illustration%20Agency%20Yeon%20illustration,B%3B%20C%3B%20D%3B%20E)) Australian market are created in Sydney, and it’s home to branches of global ad agency networks. **Industries:** Advertising (especially for finance, retail, and government campaigns in Australia – e.g., banks, tourism boards commissioning illustration for ads), **media** (Sydney has major newspapers and magazines that use illustration, e.g., *The Sydney Morning Herald* might hire illustrators for feature stories), and **film/TV** (to a smaller extent, but Australia’s film industry and events sometimes need poster art or storyboards). *Notable agencies:* **The Illustration Room** is a Sydney-based agency representing Australian illustrators for advertising and publishing. **Jacky Winter Group**, while headquartered in Melbourne, works extensively with Sydney clients (and indeed has artists across Australia and internationally). Sydney’s role is often as the client location – e.g., a Sydney ad agency might hire an illustrator via an agent in London or Melbourne. But there are local agents: **Illustration Ltd** (IllustrationX) has had Australian agents, and **Creatives Uncovered** is a network in Australia. In terms of volume, the Australian market is smaller than North America/Europe, but Sydney likely accounts for the majority of it, hence its place in the top 20\. Also, being in Asia-Pacific, Sydney agencies sometimes collaborate on Asia-wide projects, giving them additional reach.

@@ -1,0 +1,9 @@
+---
+id: Market-analysis-cities-and-agencies-auto.63
+type: unsorted
+topic: "unsorted"
+source: "/Users/santtu/business-intel/raw/Market-analysis-cities-and-agencies.md"
+created_at: 2025-11-03
+confidence: 0.5
+---
+**1\. New York City (USA):** *Global Capital of Illustration Commerce.* New York tops the list given its huge advertising industry and publishing sector. The city’s ad agencies (on Madison Avenue and beyond) regularly commission illustrations for campaigns, and the “Big Five” book publishers (all headquartered in NYC) hire illustrators for book covers and children’s books. Major newspapers and magazines (e.g., *The New York Times*, *The New Yorker*) also use commissioned illustrations. NYC is home to many leading agencies: **Bernstein & Andriulli**, **IllustrationX’s New York office**, **Mendola Art**, **Rapp Art**, **VAZ+Associates**, and others. At any given time, dozens of agencies and reps are brokering deals in NYC. The city’s scale is reflected in high illustrator incomes – NYC has one of the highest concentrations of illustrators/designers in the US – and top-end project budgets. **Industries driving demand:** Advertising (all sectors, including fashion, finance, tech), publishing (books, magazines), media and entertainment (broadcasters, streaming services needing promo art). *Notable agencies:* B\&A (global rep for top illustrators), **Richard Solomon Artists Representative** (specializing in editorial/commercial art), **IllustrationX USA**, **Cartoons Underground** (animation art rep), among others. New York’s illustration market likely generates **tens of millions in agency revenue annually**, given th ([America's Best (and Worst) Cities for Graphic Designers](https://www.movebuddha.com/blog/best-cities-graphic-designers/#:~:text=America%27s%20Best%20,54%2C%2019%2C216%2C182%2C%20%24)) commissions flowing through the city.

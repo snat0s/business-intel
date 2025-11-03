@@ -1,0 +1,9 @@
+---
+id: Market-analysis-cities-and-agencies-auto.64
+type: unsorted
+topic: "unsorted"
+source: "/Users/santtu/business-intel/raw/Market-analysis-cities-and-agencies.md"
+created_at: 2025-11-03
+confidence: 0.5
+---
+**2\. London (UK):** *Europe’s Illustration Hub.* London is arguably on par with New York in terms of illustration agency activity, serving as the hub for the UK and much of Europe. The city has a rich illustration heritage and a **large number of agencies** – at least 25 significant illustration agencies operate in the UK, with the majority in London. These include **Central Illustration Agency (CIA)**, **IllustrationX (global HQ)**, **The Bright Agency**, **Advocate Art**, **Jelly London**, **Lemonade**, **Folio**, **Handsome Frank**, **Synergy Art**, **Breed**, **Heart Agency**, **Debut Art**, and more. London’s advertising agencies (e.g., WPP’s agencies, Saatchi & Saatchi) commission illustration for campaigns, and the city’s publishing industry (Penguin Random House UK, magazines like *The Economist* or *The Guardian*) is a major client as well. **Industries:** Advertising (consumer b ([AOI Publishes 2024 Pricing Survey Results](https://theaoi.com/news/2024-aoi-pricing-survey#:~:text=This%20comprehensive%20resource%20offers%20insights,across%2025%20UK%20illustration)) motive, etc.), publishing (UK is a global center for children’s books and editorial illustration), fashion (London fashion and luxury brands often use illustrators for lookbooks and campaigns), and design/branding agencies. London-based illustration agencies often serve all of Europe – for instance, an illustrator in London might be commissioned for an ad in Paris or Berlin via their London agent. The total illustration commission revenue handled in London is very high, with top agencies there each handling millions per year, making London a powerhouse of the illustration trade.

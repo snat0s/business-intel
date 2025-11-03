@@ -1,0 +1,9 @@
+---
+id: Market-analysis-cities-and-agencies-auto.75
+type: unsorted
+topic: "unsorted"
+source: "/Users/santtu/business-intel/raw/Market-analysis-cities-and-agencies.md"
+created_at: 2025-11-03
+confidence: 0.5
+---
+**13\. Hong Kong:** *Gateway to Chinese and APAC Markets.* Traditionally, Hong Kong was a leading advertising center for East Asia – many international ad agencies had HK offices to handle Greater China and pan-Asian accounts. Although Hong Kong’s role is changing in recent years, it remains a place where a lot of **marketing and design work** takes place. **Industries:** Advertising (especially luxury retail, given HK’s importance in luxury markets; also banking and finance marketing often has APAC creative based in HK), **publishing** (HK has a mix of Chinese and English-language publications and publishers that use illustration), and **entertainment** (the HK film industry and event promotion sometimes involve illustrators for posters, though less so now than in its heyday). *Notable agencies:* **Illo Agency** (an agency that represents Asian illustrators, possibly with presence in HK as they list global artists including Chinese), and **China Illustration** (a network operating between HK/China). Also, many Western agencies have reps in HK (for example, **Illustration Ltd** historically had an agent covering HK/China). Hong Kong’s bilingual environment made it a conduit for Western clients to hire Asian illustrators or vice versa. With the growth of Shenzhen/Guangzhou creative scenes, HK’s dominance is a bit reduced, but it still generates significant illustration business, particularly for projects that aim for a pan-Asian audience. The number of agencies physically in HK might be limited, but the city’s advertising sector ensures a volume of commissions that justifies inclusion in the top 20\.

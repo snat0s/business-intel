@@ -1,0 +1,9 @@
+---
+id: Pekka-story-auto.22
+type: unsorted
+topic: "unsorted"
+source: "/Users/santtu/business-intel/raw/Pekka-story.md"
+created_at: 2025-11-03
+confidence: 0.5
+---
+Following the European foray, Agent Pekka continued to broaden its global footprint. By the mid-2010s, the agency expanded into the North American market, establishing a presence in New York City and Los Angeles ([Agent Pekka — Violaine & Jérémy](https://www.violaineetjeremy.fr/project/agent-pekka#:~:text=Complete%20rebranding%20of%20Agent%20Pekka%27s,%E2%9C%BA)). These expansions meant that Agent Pekka now had bases in three creative hotspots on two continents – Helsinki, Amsterdam, and the key US hubs – truly reflecting its transformation into a global agency. The New York and Los Angeles offices opened up direct access to major advertising industries on the American east and west coasts, allowing the agency to work more closely with US clients and to recruit or manage talent in those regions. By this time, Agent Pekka’s roster included artists from all over the world, and the decision to be physically present in the United States demonstrated the commitment to “work everywhere” that the company professed ([Agent Pekka](https://www.gosee.news/agentpekka/page/about#:~:text=We%27re%20a%20global%20artist%20representation,Los%20Angeles%2C%20and%20work%20everywhere)). Each new office brought the challenge of entering a competitive market, but Agent Pekka leveraged its strong brand and network of contacts. For instance, just as it did in Amsterdam, the agency likely leaned on local industry experts or connections (Pablo Steffa himself spent significant time in these markets) to establish its American operations. The result was that by around 2014, Agent Pekka had evolved from a Helsinki-based boutique agency into a multi-city international operation.

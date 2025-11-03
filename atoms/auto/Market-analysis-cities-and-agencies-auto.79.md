@@ -1,0 +1,9 @@
+---
+id: Market-analysis-cities-and-agencies-auto.79
+type: unsorted
+topic: "unsorted"
+source: "/Users/santtu/business-intel/raw/Market-analysis-cities-and-agencies.md"
+created_at: 2025-11-03
+confidence: 0.5
+---
+**17\. Melbourne (Australia):** *Design and Publishing Heart in Australia.* Melbourne is another Australian hub with a strong art and design community. It is known for its **publishing industry** (several publishers and educational content creators are based there) and a vibrant local design scene. **Industries:** Publishing (Melbourne is a UNESCO City of Literature, hosting many book publishers and literary magazines – illustrators get work in children’s books and book cover illustration here), **advertising/design** (some creative agencies prefer Melbourne’s scene, plus the city has many events that commission illustration, like the Melbourne arts festival posters, etc.), and **animation/film** (Melbourne has animation studios where illustrators contribute concept art). *Notable agencies:* **Jacky Winter Group** – a famous illustration agency that started in Melbourne – represents a roster of Australian and international talent and connects them to clients worldwide. Jacky Winter has been highly successful, essentially putting Melbourne on the map for illustration representation. Other local agencies include **The Handsome Frank Australia** (extension of UK’s Handsome Frank) and independent reps like **Nanda\\Hobbs Illustration**. Melbourne illustrators also often work directly with the many design studios in the city (some acting as quasi-agents by bringing freelance illustrators onto projects). Combined with Sydney, Melbourne covers virtually all of Australia’s significant illustration commissions. We list it separately because of its distinct contribution (particularly in publishing and design).

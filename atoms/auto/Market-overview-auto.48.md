@@ -1,0 +1,9 @@
+---
+id: Market-overview-auto.48
+type: unsorted
+topic: "unsorted"
+source: "/Users/santtu/business-intel/raw/Market-overview.md"
+created_at: 2025-11-03
+confidence: 0.5
+---
+**g. Leverage Nordic Connections & New Markets:** Agent Pekka can take advantage of its **Nordic/European network** to create opportunities that others might miss. For instance, the Nordic countries have a strong design culture and many events/festivals (like design weeks, tech conferences) that could use curated art. Agent Pekka could partner with such events to provide artwork or host illustration exhibitions, thereby marketing its brand. Also, consider collaborating with other creative firms (like an ad agency or a design studio) on speculative projects or IP in order to get exposure. Another opportunity is the **gaming industry** in Northern Europe – Finland and Sweden host many game studios (mobile and PC/console). Agent Pekka’s illustrators could pitch in-game art or promotional art for these companies, a niche not all illustration agencies target aggressively. If successful, that could open a pipeline of work (game art, which is in high demand and fits with visual storytelling). Similarly, exploring sectors like **education (illustrations for e-learning)** or **corporate communications (infographics, explainer visuals)** can differentiate offerings – Agent Pekka already lists infographics and iconography as specialties ([Agent pekka Reviews 2025: Profile Details | GoodFirms](https://www.goodfirms.co/company/agent-pekka#:~:text=Agent%20Pekka%20is%20an%20illustration,diverse%20as%20they%20are%20distinctive)), so packaging those services explicitly and marketing them to businesses could set it apart (e.g., “we are not only art-for-ads, we also solve your communication design needs with bespoke illustration”). Finding these *differentiated services* and promoting them will give Agent Pekka an edge in areas where competition is less crowded.

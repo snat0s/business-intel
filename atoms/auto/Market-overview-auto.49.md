@@ -1,0 +1,9 @@
+---
+id: Market-overview-auto.49
+type: unsorted
+topic: "unsorted"
+source: "/Users/santtu/business-intel/raw/Market-overview.md"
+created_at: 2025-11-03
+confidence: 0.5
+---
+**h. Foster Community and Thought Leadership:** Building a community around the agency can indirectly boost business. Agent Pekka could host webinars or live Instagram Q\&As about illustration trends, or perhaps a small annual showcase event (virtual or in a design capital) where it invites clients and displays new works from its roster. This fosters direct relationships and keeps clients engaged beyond just transactions. It also heightens the agency’s profile as a **thought leader and community hub** for illustration. For example, Agent Pekka might initiate a report or article series on “The State of Illustration in Advertising” (similar to how some agencies produce annual trend reports – note: The Drawing Arm’s 2025 trend report example ([Illustration agency The Drawing Arm launches 2025 Trend Report](https://campaignbrief.com/illustration-agency-the-drawing-arm-launches-2025-trend-report-art-will-save-the-world/#:~:text=Illustration%20agency%20The%20Drawing%20Arm,edge%20visual%20trends))). Publishing a well-researched piece with quotes from artists and clients could attract media attention and citations, raising Agent Pekka’s authority (and it provides something to discuss in client meetings or pitches). Another community angle: champion diversity and inclusion in the illustration world – Agent Pekka could ensure it has a diverse roster and perhaps run a mentorship program for underrepresented illustrators. By publicly sharing these values and actions, it differentiates itself as a forward-thinking, socially conscious agency, which can appeal to clients (many brands today value diversity in their vendor partnerships).

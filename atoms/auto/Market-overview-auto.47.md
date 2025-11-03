@@ -1,0 +1,9 @@
+---
+id: Market-overview-auto.47
+type: unsorted
+topic: "unsorted"
+source: "/Users/santtu/business-intel/raw/Market-overview.md"
+created_at: 2025-11-03
+confidence: 0.5
+---
+**f. Embrace Digital Marketing & Content:** To increase global visibility without a huge budget, Agent Pekka can double down on **digital marketing**. This means remaining active and engaging on Instagram (where it already showcases artists), but also expanding content output. For instance: launch a **blog or interview series** on Agent Pekka’s site where artists share insights or where the agency discusses industry trends (positioning Agent Pekka as a thought leader). The content should be optimized for search (SEO) so that when companies search for illustration agencies, Agent Pekka’s informative content appears. Also, consider sharing success stories in video form – maybe short case study videos or Instagram Reels about recent projects. Many competitors use such content effectively (HF’s mini artist documentaries, JW’s playful site takeovers, etc.). Agent Pekka could start a campaign of behind-the-scenes glimpses into the creation of an illustration project for a client, which would be both interesting content and a subtle advertisement of its capabilities. Additionally, Agent Pekka could engage in **targeted marketing**: for example, using LinkedIn to post about completed campaigns and tag the client company – this puts the work in front of other potential corporate clients. Running a newsletter aimed at art directors and brand managers with quarterly updates and trend reports (maybe a *“Visual Trends Insight from Agent Pekka”* drawing on its expertise) would keep it top-of-mind. Overall, by disseminating valuable and interesting content regularly, Agent Pekka can significantly boost its **marketing effectiveness** globally, even as a smaller agency.
