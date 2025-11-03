@@ -1,0 +1,17 @@
+business-plan:
+  sources:
+    - atoms/manual/**
+    - atoms/auto/**
+    - prompts/business-plan.md
+  outputs:
+    - views/business-plan.md
+
+budget:
+  sources:
+    - atoms/manual/**
+    - atoms/auto/**
+    - prompts/budget.md
+    - views/business-plan.md
+  outputs:
+    - views/budget.md
+
